@@ -1,0 +1,1 @@
+This error occurs when using the Expo DocumentPicker API on Android.  The issue manifests as a failure to open the file picker, leaving the user with a blank screen or an immediate app crash.  The error is often uninformative, providing no clear indication of the underlying cause within the console.
